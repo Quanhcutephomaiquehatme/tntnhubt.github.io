@@ -17,24 +17,6 @@ This is a simple profile card that I made using HTML and CSS.
 - Git
 - GitHub
 
-### Installing
-
-Clone the repository using below command
-
-    git clone https://github.com/Varshithvhegde/profilecard.git
-
-
-
-## Running the tests
-
-- Use live server extension in VS Code to run the index.html file
-
-
-## Deployment
-
-- Deploy the project on GitHub pages
-- [varshithvhegde.github.io/profilecard](https://varshithvhegde.github.io/profilecard/)
-- [varshithvhegde.live](https://varshithvhegde.live)
 
 ## Built With
 
@@ -59,9 +41,6 @@ Clone the repository using below command
 - Wait for the pull request to be merged
 
 
-## Authors
-
-- **Varshith V Hegde** - [Varshithvhegde](https://github.com/Varshithvhegde) 
 
 ## License
 
